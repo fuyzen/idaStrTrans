@@ -12,10 +12,10 @@ If the string is too short, you should manually given the source language.
 
 
 ##Usage
-You should install python with easy_install, to install this two library..
+You should install python with pip, to install this two library..
 
-* easy_install goslate
-* easy_install chardet
+* pip install goslate
+* pip install chardet
 
 Then load the script in IDA Pro, you will see:
 
