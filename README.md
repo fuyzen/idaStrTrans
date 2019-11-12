@@ -1,7 +1,7 @@
-#idaStrTrans.py
+# idaStrTrans.py
 Translate any language in IDA Pro.
 
-##Background
+## Background
 Sometime we do reverse engineering, cannot understand strings in other language.
 
 So I make this python script to do the auto translate by using Google Translate.
@@ -11,7 +11,7 @@ It can auto detect any source language. And translate it to any other language.
 If the string is too short, you should manually given the source language.
 
 
-##Usage
+## Usage
 You should install python with pip, to install this two library..
 
 * pip install goslate
